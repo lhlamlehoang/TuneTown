@@ -1,0 +1,42 @@
+[
+  {
+    "songId": 1,
+    "songName": "What make you beautiful",
+    "artistName": "One Direction",
+    "songDuration": "3:48",
+    "songCover": "https://media.npr.org/assets/music/news/2010/09/maroon-e9cb8c5b25b4d1f3e68aa26e6a0ce51cf2ae59d8-s1100-c50.jpg",
+    "songLink": "HappyNewYear"
+  },
+  {
+    "songId": 2,
+    "songName": "Happy New Year",
+    "artistName": "ABBA",
+    "songDuration": "4:23",
+    "songCover": "https://media.npr.org/assets/music/news/2010/09/maroon-e9cb8c5b25b4d1f3e68aa26e6a0ce51cf2ae59d8-s1100-c50.jpg",
+    "songLink": "HappyNewYear"
+  },
+  {
+    "songId": 3,
+    "songName": "Sugar",
+    "artistName": "Maroon 5",
+    "songDuration": "3:56",
+    "songCover": "https://media.npr.org/assets/music/news/2010/09/maroon-e9cb8c5b25b4d1f3e68aa26e6a0ce51cf2ae59d8-s1100-c50.jpg",
+    "songLink": "HappyNewYear"
+  },
+  {
+    "songId": 4,
+    "songName": "What make you beautiful",
+    "artistName": "One Direction",
+    "songDuration": "3:48",
+    "songCover": "https://media.npr.org/assets/music/news/2010/09/maroon-e9cb8c5b25b4d1f3e68aa26e6a0ce51cf2ae59d8-s1100-c50.jpg",
+    "songLink": "HappyNewYear"
+  },
+  {
+    "songId": 5,
+    "songName": "Happy New Year",
+    "artistName": "ABBA",
+    "songDuration": "4:23",
+    "songCover": "https://media.npr.org/assets/music/news/2010/09/maroon-e9cb8c5b25b4d1f3e68aa26e6a0ce51cf2ae59d8-s1100-c50.jpg",
+    "songLink": "HappyNewYear"
+  }
+]
